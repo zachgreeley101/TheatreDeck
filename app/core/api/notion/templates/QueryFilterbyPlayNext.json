@@ -1,0 +1,9 @@
+﻿{
+  "filter": {
+    "property": "PlayNext",
+    "checkbox": {
+      "equals": true
+    }
+  },
+  "page_size": 1
+}

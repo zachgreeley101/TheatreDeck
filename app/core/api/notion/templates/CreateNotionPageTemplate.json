@@ -1,0 +1,65 @@
+﻿{
+  "parent": { "database_id": "{{databaseId}}" },
+  "properties": {
+    "Server Drive": {
+      "multi_select": [
+        {{ServerDrive}}
+      ]
+    },
+    "Tags": {
+      "multi_select": [
+        {{Tags}}
+      ]
+    },
+    "Collections": {
+      "multi_select": [
+        {{Collections}}
+      ]
+    },
+    "PlayNext": {
+      "checkbox": {{PlayNext}}
+    },
+    "Year": {
+      "number": {{Year}}
+    },
+    "Volume": {
+      "number": {{Volume}}
+    },
+    "PlayCount": {
+      "number": {{PlayCount}}
+    },
+    "Start Time": {
+      "number": {{StartTime}}
+    },
+    "Skipping Time": {
+      "rich_text": [
+        {
+          "text": {
+            "content": "{{SkippingTime}}"
+          }
+        }
+      ]
+    },
+    "End Time": {
+      "number": {{EndTime}}
+    },
+    "Location": {
+      "rich_text": [
+        {
+          "text": {
+            "content": "{{Location}}"
+          }
+        }
+      ]
+    },
+    "Name": {
+      "title": [
+        {
+          "text": {
+            "content": "{{Name}}"
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,12 @@
+# Ignore a files
+Secrets.config
+App.config
+
+# Ignore folders
+logs/
+src/more/
+bin/
+.vs/
+obj/
+.nuget/
+embeddedapps/

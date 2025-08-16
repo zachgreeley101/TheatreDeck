@@ -1,0 +1,10 @@
+﻿{
+  "filter": {
+    "property": "IDSearch",
+    "formula": {
+      "string": {
+        "equals": "{ID}"
+      }
+    }
+  }
+}
