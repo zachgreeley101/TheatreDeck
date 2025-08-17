@@ -86,7 +86,7 @@ TheatreDeck is built around four main parts:
 
 ---
 
-## 📚 Documentation
+## 📚 Documentation used:
 
 * **VLC HTTP API**
   [https://gist.github.com/fjenett/41fed52655dc4723eaf3d1c8cf06ac56](https://gist.github.com/fjenett/41fed52655dc4723eaf3d1c8cf06ac56)
@@ -107,7 +107,7 @@ View of the Form Controller
 View of the Theatre Screen
 <img width="1620" height="910" alt="image" src="https://github.com/user-attachments/assets/573bb380-bf24-4715-9416-20a94563a781" />
 
-View of the inside of the VR Theatre
+View of the inside of the Bigscreen VR Theatre
 <img width="2070" height="1009" alt="image" src="https://github.com/user-attachments/assets/c25eefa3-6f54-45f3-8792-0e3d8f26345f" />
 
 View of the Notion Database
